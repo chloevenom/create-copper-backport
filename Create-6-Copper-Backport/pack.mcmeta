@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "[1.20.1] Create 6.0 Copper Textures for Create 5.1",
+    "pack_format": 15,
+    "supported_formats": {
+      "max_inclusive": 26,
+      "min_inclusive": 15
+    }
+  }
+}

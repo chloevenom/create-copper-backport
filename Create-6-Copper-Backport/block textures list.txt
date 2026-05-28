@@ -1,0 +1,25 @@
+[TODO]:
+- Fluid Tank ✓
+    - 1x1 ✓
+    - 2x2 ✓
+    - 3x3 ✓
+- Steam Tank ✓
+- Steam Engine ✓
+- Fluid Pipe ✓
+- Mechanical Pump ✓
+- Spout ✓
+- Copper Valve Handle ✓
+
+- Fluid Valve ✓
+- Hose Pulley ✓
+- Item Drain ✓
+- Portable Fluid Interface ✓
+
+- Copper Casing ✓
+    - Copper Casing connected textures ✓
+- Copper Ladder ✓
+- Copper Bars ✓
+- Copper Scaffolding ✓
+- Copper Shingles
+- Copper Train Door ✓
+- Copper Redstone Plate ✓
