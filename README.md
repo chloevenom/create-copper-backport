@@ -21,8 +21,6 @@ The only "original" textures here are (so far) the boiler gauge and fluid valve,
 ## Preview
 ![[1.20.1, Create 0.5.1.j] Create Copper Backport textures used in an example scenario.](https://files.catbox.moe/fw0zp3.webp)
 
-_(If this doesn't load for you, check the gallery for preview images!)_
-
 ---
 
 i mainly set this repository up because i felt like i needed to add _some_ kind of external link to my modrinth mod page, i have absolutely no clue if i'm even allowed to upload official create textures like this to github but ig as they say "it's better to ask forgiveness than permission"
